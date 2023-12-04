@@ -13,6 +13,7 @@ end
 module Swimmable
   def Swimmable
     puts "I can swim!"
+  end
 end
 
 module Walkable
